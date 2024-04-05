@@ -1,4 +1,4 @@
-[![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)]
+![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)
 
 <h1 align="center">Hi 👋, I'm Anurag Gupta</h1>
 <h3 align="center">A passionate web developer from India</h3>
