@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Anuragupta290@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **Google’s Original Name Was “Backrub”**
 
 <br>
 <br>
